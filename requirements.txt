@@ -108,7 +108,7 @@ python-dateutil==2.9.0.post0
     #   freezegun
 pyyaml==6.0.1
     # via pre-commit
-requests==2.32.3
+requests==2.32.4
     # via
     #   cloudsmith-cli (setup.py)
     #   requests-toolbelt
