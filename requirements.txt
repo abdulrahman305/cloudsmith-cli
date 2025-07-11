@@ -135,12 +135,12 @@ typing-extensions==4.13.2
     # via
     #   astroid
     #   pylint
-urllib3==1.26.20
+urllib3==2.5.0
     # via
     #   cloudsmith-api
     #   cloudsmith-cli (setup.py)
     #   requests
-virtualenv==20.24.2
+virtualenv==20.26.6
     # via pre-commit
 wheel==0.41.1
     # via pip-tools
